@@ -53,7 +53,7 @@ const Parallax = () => {
       {/* VertAura Text */}
       <h2
   id="text"
-  className="absolute text-3xl md:text-7xl text-teal-900 font-bold z-80 pb-20 mb-28"
+  className="absolute text-4xl md:text-7xl text-teal-900 font-bold z-80 pb-20 mb-28"
   style={{ textShadow: '2px 2px 4px rgba(0, 0, 0, 0.6)' }}>VertAura
 </h2>
       {/* Foreground Images */}
